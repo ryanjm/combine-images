@@ -17,10 +17,6 @@
 				<key>NSApplicationIdentifier</key>
 				<string>com.apple.finder</string>
 			</dict>
-			<key>NSSendFileTypes</key>
-			<array>
-				<string>public.image</string>
-			</array>
 		</dict>
 	</array>
 </dict>

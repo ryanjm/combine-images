@@ -3,6 +3,7 @@
 if ARGV.length <= 2
   puts "need more arguments"
 else
+  puts ARGV.length
   # reverse order or images to show up in order they were taken
   args = ARGV.reverse
   # last argument was random name for new image
